@@ -10,9 +10,9 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: dionne_nbdev
+      title: jupyterProject
       url: /core
     output: web
-    title: nbdev_dionne
+    title: jupyterProject
   output: web
   title: Sidebar

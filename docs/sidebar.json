@@ -1,6 +1,6 @@
 {
-  "nbdev_dionne": {
+  "jupyterProject": {
     "Overview": "/",
-    "dionne_nbdev": "/core"
+    "jupyterProject": "/core"
   }
 }
